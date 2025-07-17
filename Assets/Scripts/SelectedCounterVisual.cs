@@ -6,7 +6,6 @@ public class SelectedCounterVisual : MonoBehaviour
     [SerializeField] private GameObject visualGameObject;
     private void Start()
     {
-        Debug.Log("Oh Hi Mark");
         Player.Instance.OnSelectedCounterChanged += Player_OnSelectedCounterChanged;
     }
 
