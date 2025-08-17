@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e26e481b59cdec48acbb4540af37f8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tomatoPrefab: {fileID: 4537596072302843289, guid: 66489026fff81fe46992088839999ed9, type: 3}
+  kitchenObjectSO: {fileID: 11400000, guid: 80b9746f6126555479066cf0ef08ba52, type: 2}
   counterTopPoint: {fileID: 6445340367981287592}
 --- !u!1001 &6692421168001609953
 PrefabInstance:
